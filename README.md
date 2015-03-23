@@ -1,8 +1,6 @@
 # Stranded2
 The Stranded II source code
 
-!!!Still uploading!!!
-
 Firstly, I uploaded this here, because of safety purposes.
 
 Secondly, if anyone have some interest in it, please help with porting this to Linux. It needs Blitz 3D to compile, it is open source, it also needs to be ported AFAIK (it has a Github repo, but I forked it, so you can find it here too).
